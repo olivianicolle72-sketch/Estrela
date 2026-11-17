@@ -624,7 +624,7 @@ pararMovimento();
     prepararPersonagem();  
 } else {  
     // Ajustado para o nome do seu arquivo HTML principal/CRUD
-    window.location.href = "http://localhost:7700/crud/crud.html";  
+    window.location.href = "http://127.0.0.1:5500/crud/crud.html";  
 }
 });
 
